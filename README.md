@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanketAwad
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python, Mysql, Power Bi.
-- 💞️ I’m looking to collaborate on anything related Data Science that build my profile strong.
+- 💞️ I’m looking to collaborate on anything related to Data Science that can build my profile strong.
 - 📫 How to reach me sanketawad141@gmail.com
 
 <!---
